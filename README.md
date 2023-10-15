@@ -1,0 +1,1 @@
+# Se20uari133_SunSpot-Activity-Problem-using-time-series-analysis-model-like-SARIMA
